@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Implementation-Title: HotSysProject
 Implementation-Version: 1.0.0-SNAPSHOT
-Built-By: davi.mendes
+Built-By: wilson.paiva
 Implementation-Vendor-Id: com.wade.hotsys
 Build-Jdk: 1.8.0_144
 Implementation-URL: http://projects.spring.io/spring-boot/HotSysProjec
